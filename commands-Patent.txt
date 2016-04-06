@@ -1,0 +1,24 @@
+graph 1963 1963
+out-degree
+end-graph
+graph 1963 1964
+out-degree
+end-graph
+graph 1963 1965
+out-degree
+end-graph
+graph 1963 1966
+out-degree
+end-graph
+graph 1963 1967
+out-degree
+end-graph
+graph 1963 1968
+out-degree
+end-graph
+graph 1963 1969
+out-degree
+end-graph
+graph 1963 1970
+out-degree
+end-graph
